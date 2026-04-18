@@ -116,6 +116,21 @@ license: MIT
 
 **特点**：100%宽度自适应，圆角4px，上下间距15px
 
+### URL 链接
+
+```html
+<code style="background: #f5f5f5; padding: 2px 6px; border-radius: 3px; font-size: 14px; color: #00a3a4;">https://github.com/xxx/xxx</code>
+```
+
+**特点**：
+- 使用 `<code>` 标签包裹，防止被微信自动分词
+- 浅灰背景 #f5f5f5，区分普通文本
+- 圆角 3px，内边距 2px 6px
+- 青色主题色 #00a3a4，保持视觉统一
+- 字号 14px，略小于正文
+
+**⚠️ 重要**：不要用 `<span>` 或 `white-space: nowrap`，会导致字符间空格更明显
+
 ### 结尾固定格式
 
 ```html
@@ -176,6 +191,7 @@ license: MIT
 - ❌ 满屏无留白
 - ❌ 图片尺寸不一、无圆角
 - ❌ 过度装饰（花边框、动效、杂乱符号）
+- ❌ URL 不用 `<code>` 标签包裹（会被自动分词）
 
 ### ✅ 最佳实践
 
