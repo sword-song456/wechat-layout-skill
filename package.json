@@ -1,0 +1,24 @@
+{
+  "name": "wechat-layout-skill",
+  "version": "1.0.0",
+  "description": "微信公众号专业排版规范 - 基于信息分层设计的手机端优化排版方案",
+  "keywords": [
+    "wechat",
+    "公众号",
+    "排版",
+    "layout",
+    "mobile-first",
+    "html",
+    "css"
+  ],
+  "author": "Jarrett",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sword__song/wechat-layout-skill"
+  },
+  "bugs": {
+    "url": "https://github.com/sword__song/wechat-layout-skill/issues"
+  },
+  "homepage": "https://github.com/sword__song/wechat-layout-skill#readme"
+}
