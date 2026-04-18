@@ -8,7 +8,7 @@
 
 如果你发现了问题或有改进建议：
 
-1. 在 [Issues](https://github.com/sword__song/wechat-layout-skill/issues) 中搜索是否已有相关问题
+1. 在 [Issues](https://github.com/sword-song456/wechat-layout-skill/issues) 中搜索是否已有相关问题
 2. 如果没有，创建新的 Issue，详细描述：
    - 问题现象或改进建议
    - 复现步骤（如果是 bug）
